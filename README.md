@@ -11,32 +11,32 @@ Welcome to my GitHub repository, where I showcase the projects I completed durin
 
 ## 🚀 Projects  
 
-### **Karel's Projects**  
+### **Karel's Projects** 🤖 
 Karel the Robot is an excellent tool for learning programming through fun, interactive challenges. Here are the projects I completed:  
-1. **Warm Up (Move)**  
+1. **Warm Up (Move)**  🌤️
    - A simple exercise to practice Karel’s basic movements.  
 
-2. **Karel’s Home**  
+2. **Karel’s Home**  🏡
    - Task: Guide Karel back home while navigating a world with obstacles.  
 
-3. **Jigsaw Karel**  
+3. **Jigsaw Karel**  🧩
    - Task: Help Karel assemble a jigsaw puzzle by moving and placing beepers strategically.  
 
-4. **2024 Karel**  
+4. **2024 Karel**  🔢
    - Task: Create a unique world pattern or structure to celebrate Code in Place 2024.  
 
-5. **Pile**  
+5. **Pile**  🪨
    - Task: Build and stack piles of beepers in a specific pattern.  
 
-6. **Stone Mason Karel**  
+6. **Stone Mason Karel**  🪨🏢
    - Task: Repair damaged columns in the world by placing beepers efficiently.  
 
-7. **Hospital Karel**  
+7. **Hospital Karel**  🏥
    - Task: Set up a hospital by creating designated areas with beepers.  
 
 ---
 
-### **Python Projects**  
+### **Python Projects**  🐍
 After mastering Karel, I moved on to Python, tackling diverse challenges that taught more advanced programming concepts:  
 1. **Dog Years**  🐕🎍
    - Calculate a dog’s age in human years based on user input.  
